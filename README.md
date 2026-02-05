@@ -20,4 +20,4 @@ The tests run using the Google Chrome mobile emulator to validate core user jour
 ## How to Run
 ```bash
 pip install -r requirements.txt
-pytest
+pytest -v 
